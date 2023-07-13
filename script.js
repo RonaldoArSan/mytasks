@@ -7,7 +7,9 @@ function toggleMode(){
     //     }
 
     html.classList.toggle('light')
-    //pegar a  tag imagem
+   
+   
+    //Trocar  a tag imagem
 
     const img = document.querySelector("#profile img")
 
